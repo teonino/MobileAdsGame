@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|d:\\unity project\\mobile ads\\mobile ads game\\assets\\scripts\\circularmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\circularmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\circularmenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\circularmenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|d:\\unity project\\mobile ads\\mobile ads game\\assets\\scripts\\circularmenulayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\circularmenulayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\manageinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manageinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\buildingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\sellingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sellingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Library\\PackageCache\\com.unity.cinemachine@2.10.3\\Runtime\\Core\\AxisState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.cinemachine@2.10.3\\Runtime\\Core\\AxisState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\fieldgrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fieldgrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660DD65-2FCE-E1B3-37BC-719989D5B60F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircularMenuLayout.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\CircularMenuLayout.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CircularMenuLayout.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\CircularMenuLayout.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CircularMenuLayout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:28:24.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CircularMenuManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\CircularMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CircularMenuManager.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\CircularMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CircularMenuManager.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwBIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:05:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CircularMenuOptions.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\CircularMenuOptions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CircularMenuOptions.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\CircularMenuOptions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CircularMenuOptions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:24:01.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuildingPlace.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\BuildingPlace.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingPlace.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\BuildingPlace.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingPlace.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:03:44.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AxisState.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Library\\PackageCache\\com.unity.cinemachine@2.10.3\\Runtime\\Core\\AxisState.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.cinemachine@2.10.3\\Runtime\\Core\\AxisState.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Library\\PackageCache\\com.unity.cinemachine@2.10.3\\Runtime\\Core\\AxisState.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.cinemachine@2.10.3\\Runtime\\Core\\AxisState.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAwN8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:09:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellingPlace.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\SellingPlace.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SellingPlace.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\SellingPlace.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SellingPlace.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:52:31.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FieldGrow.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\FieldGrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FieldGrow.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\FieldGrow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FieldGrow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:53:20.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Build.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\Build.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Build.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\Build.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Build.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:31:26.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:09:34.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageInventory.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\ManageInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManageInventory.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\ManageInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManageInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:14:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwBgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:42:59.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PickUp.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\PickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUp.cs",
+              "ToolTip": "D:\\Unity Project\\Mobile Ads\\Mobile Ads Game\\Assets\\Scripts\\PickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:09:50.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
